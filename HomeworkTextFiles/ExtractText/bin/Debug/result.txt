@@ -1,0 +1,7 @@
+<?xml version="1.0">
+<student>
+  <name></name>
+  <age></age>
+  <interests count="3">
+    <interest></instrest><interest></instrest><interest></instrest></interests></student>
+

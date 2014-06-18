@@ -1,0 +1,5 @@
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\WordRepetition\bin\Debug\WordRepetition.exe.config
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\WordRepetition\bin\Debug\WordRepetition.exe
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\WordRepetition\bin\Debug\WordRepetition.pdb
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\WordRepetition\obj\Debug\WordRepetition.exe
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\WordRepetition\obj\Debug\WordRepetition.pdb

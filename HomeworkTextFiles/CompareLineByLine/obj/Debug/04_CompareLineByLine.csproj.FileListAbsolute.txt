@@ -1,0 +1,6 @@
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\CompareLineByLine\bin\Debug\CompareLineByLine.exe.config
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\CompareLineByLine\bin\Debug\CompareLineByLine.exe
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\CompareLineByLine\bin\Debug\CompareLineByLine.pdb
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\CompareLineByLine\obj\Debug\04_CompareLineByLine.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\CompareLineByLine\obj\Debug\CompareLineByLine.exe
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\CompareLineByLine\obj\Debug\CompareLineByLine.pdb

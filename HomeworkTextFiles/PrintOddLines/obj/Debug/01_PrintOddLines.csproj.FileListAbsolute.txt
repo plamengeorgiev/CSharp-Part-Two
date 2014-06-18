@@ -1,0 +1,6 @@
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\PrintOddLines\bin\Debug\PrintOddLines.exe.config
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\PrintOddLines\bin\Debug\PrintOddLines.exe
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\PrintOddLines\bin\Debug\PrintOddLines.pdb
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\PrintOddLines\obj\Debug\PrintOddLines.exe
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\PrintOddLines\obj\Debug\PrintOddLines.pdb
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\PrintOddLines\obj\Debug\01_PrintOddLines.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\ExtractText\bin\Debug\ExtractText.exe.config
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\ExtractText\bin\Debug\ExtractText.exe
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\ExtractText\bin\Debug\ExtractText.pdb
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\ExtractText\obj\Debug\10_ExtractText.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\ExtractText\obj\Debug\ExtractText.exe
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\ExtractText\obj\Debug\ExtractText.pdb

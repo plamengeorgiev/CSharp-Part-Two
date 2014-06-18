@@ -1,0 +1,5 @@
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\ReadingStrings\bin\Debug\ReadingStrings.exe.config
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\ReadingStrings\bin\Debug\ReadingStrings.exe
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\ReadingStrings\bin\Debug\ReadingStrings.pdb
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\ReadingStrings\obj\Debug\ReadingStrings.exe
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\ReadingStrings\obj\Debug\ReadingStrings.pdb

@@ -1,0 +1,6 @@
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\ReplacingWords\bin\Debug\ReplacingWords.exe.config
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\ReplacingWords\bin\Debug\ReplacingWords.exe
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\ReplacingWords\bin\Debug\ReplacingWords.pdb
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\ReplacingWords\obj\Debug\08_ReplacingWords.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\ReplacingWords\obj\Debug\ReplacingWords.exe
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\ReplacingWords\obj\Debug\ReplacingWords.pdb

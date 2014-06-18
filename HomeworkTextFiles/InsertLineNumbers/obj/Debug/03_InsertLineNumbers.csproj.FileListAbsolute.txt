@@ -1,0 +1,5 @@
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\InsertLineNumbers\bin\Debug\InsertLineNumbers.exe.config
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\InsertLineNumbers\bin\Debug\InsertLineNumbers.exe
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\InsertLineNumbers\bin\Debug\InsertLineNumbers.pdb
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\InsertLineNumbers\obj\Debug\InsertLineNumbers.exe
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\InsertLineNumbers\obj\Debug\InsertLineNumbers.pdb

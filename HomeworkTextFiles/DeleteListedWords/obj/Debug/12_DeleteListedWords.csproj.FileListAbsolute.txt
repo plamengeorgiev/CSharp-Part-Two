@@ -1,0 +1,6 @@
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\DeleteListedWords\bin\Debug\DeleteListedWords.exe.config
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\DeleteListedWords\bin\Debug\DeleteListedWords.exe
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\DeleteListedWords\bin\Debug\DeleteListedWords.pdb
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\DeleteListedWords\obj\Debug\12_DeleteListedWords.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\DeleteListedWords\obj\Debug\DeleteListedWords.exe
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\DeleteListedWords\obj\Debug\DeleteListedWords.pdb

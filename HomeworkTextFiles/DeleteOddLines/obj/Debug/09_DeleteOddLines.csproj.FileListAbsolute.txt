@@ -1,0 +1,6 @@
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\DeleteOddLines\bin\Debug\DeleteOddLines.exe.config
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\DeleteOddLines\bin\Debug\DeleteOddLines.exe
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\DeleteOddLines\bin\Debug\DeleteOddLines.pdb
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\DeleteOddLines\obj\Debug\09_DeleteOddLines.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\DeleteOddLines\obj\Debug\DeleteOddLines.exe
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\DeleteOddLines\obj\Debug\DeleteOddLines.pdb

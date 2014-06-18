@@ -1,0 +1,6 @@
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\DeleteWordsWithPrefix\bin\Debug\DeleteWordsWithPrefix.exe.config
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\DeleteWordsWithPrefix\bin\Debug\DeleteWordsWithPrefix.exe
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\DeleteWordsWithPrefix\bin\Debug\DeleteWordsWithPrefix.pdb
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\DeleteWordsWithPrefix\obj\Debug\DeleteWordsWithPrefix.exe
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\DeleteWordsWithPrefix\obj\Debug\DeleteWordsWithPrefix.pdb
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\DeleteWordsWithPrefix\obj\Debug\11_DeleteWordsWithPrefix.csprojResolveAssemblyReference.cache

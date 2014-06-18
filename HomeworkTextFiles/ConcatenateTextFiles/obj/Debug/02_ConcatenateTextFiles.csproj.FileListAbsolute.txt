@@ -1,0 +1,5 @@
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\ConcatenateTextFiles\bin\Debug\ConcatenateTextFiles.exe.config
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\ConcatenateTextFiles\bin\Debug\ConcatenateTextFiles.exe
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\ConcatenateTextFiles\bin\Debug\ConcatenateTextFiles.pdb
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\ConcatenateTextFiles\obj\Debug\ConcatenateTextFiles.exe
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\ConcatenateTextFiles\obj\Debug\ConcatenateTextFiles.pdb

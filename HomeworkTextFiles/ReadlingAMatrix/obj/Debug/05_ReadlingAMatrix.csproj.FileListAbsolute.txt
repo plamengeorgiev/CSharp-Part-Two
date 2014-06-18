@@ -1,0 +1,6 @@
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\ReadlingAMatrix\bin\Debug\ReadlingAMatrix.exe.config
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\ReadlingAMatrix\bin\Debug\ReadlingAMatrix.exe
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\ReadlingAMatrix\bin\Debug\ReadlingAMatrix.pdb
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\ReadlingAMatrix\obj\Debug\ReadlingAMatrix.exe
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\ReadlingAMatrix\obj\Debug\ReadlingAMatrix.pdb
+C:\Users\Plamen\Desktop\TestProject\HomeworkTextFiles\ReadlingAMatrix\obj\Debug\05_ReadlingAMatrix.csprojResolveAssemblyReference.cache

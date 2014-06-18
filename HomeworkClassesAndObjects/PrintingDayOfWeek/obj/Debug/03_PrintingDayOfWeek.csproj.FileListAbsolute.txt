@@ -1,0 +1,5 @@
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkClassesAndObjects\PrintingDayOfWeek\bin\Debug\PrintingDayOfWeek.exe.config
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkClassesAndObjects\PrintingDayOfWeek\bin\Debug\PrintingDayOfWeek.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkClassesAndObjects\PrintingDayOfWeek\bin\Debug\PrintingDayOfWeek.pdb
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkClassesAndObjects\PrintingDayOfWeek\obj\Debug\PrintingDayOfWeek.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkClassesAndObjects\PrintingDayOfWeek\obj\Debug\PrintingDayOfWeek.pdb

@@ -1,0 +1,6 @@
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkClassesAndObjects\CalculateSurfaceOfTriangle\bin\Debug\CalculateSurfaceOfTriangle.exe.config
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkClassesAndObjects\CalculateSurfaceOfTriangle\bin\Debug\CalculateSurfaceOfTriangle.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkClassesAndObjects\CalculateSurfaceOfTriangle\bin\Debug\CalculateSurfaceOfTriangle.pdb
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkClassesAndObjects\CalculateSurfaceOfTriangle\obj\Debug\CalculateSurfaceOfTriangle.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkClassesAndObjects\CalculateSurfaceOfTriangle\obj\Debug\CalculateSurfaceOfTriangle.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkClassesAndObjects\CalculateSurfaceOfTriangle\obj\Debug\CalculateSurfaceOfTriangle.pdb

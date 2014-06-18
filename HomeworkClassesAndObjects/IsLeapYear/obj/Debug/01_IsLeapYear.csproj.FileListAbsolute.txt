@@ -1,0 +1,5 @@
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkClassesAndObjects\IsLeapYear\bin\Debug\IsLeapYear.exe.config
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkClassesAndObjects\IsLeapYear\bin\Debug\IsLeapYear.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkClassesAndObjects\IsLeapYear\bin\Debug\IsLeapYear.pdb
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkClassesAndObjects\IsLeapYear\obj\Debug\IsLeapYear.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkClassesAndObjects\IsLeapYear\obj\Debug\IsLeapYear.pdb

@@ -1,0 +1,5 @@
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkClassesAndObjects\PrintingRandomValues\bin\Debug\PrintingRandomValues.exe.config
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkClassesAndObjects\PrintingRandomValues\bin\Debug\PrintingRandomValues.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkClassesAndObjects\PrintingRandomValues\bin\Debug\PrintingRandomValues.pdb
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkClassesAndObjects\PrintingRandomValues\obj\Debug\PrintingRandomValues.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkClassesAndObjects\PrintingRandomValues\obj\Debug\PrintingRandomValues.pdb

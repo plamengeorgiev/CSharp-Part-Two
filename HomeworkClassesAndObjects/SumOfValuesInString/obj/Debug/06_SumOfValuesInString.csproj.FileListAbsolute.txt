@@ -1,0 +1,6 @@
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkClassesAndObjects\SumOfValuesInString\bin\Debug\SumOfValuesInString.exe.config
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkClassesAndObjects\SumOfValuesInString\bin\Debug\SumOfValuesInString.exe
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkClassesAndObjects\SumOfValuesInString\bin\Debug\SumOfValuesInString.pdb
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkClassesAndObjects\SumOfValuesInString\obj\Debug\06_SumOfValuesInString.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkClassesAndObjects\SumOfValuesInString\obj\Debug\SumOfValuesInString.exe
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkClassesAndObjects\SumOfValuesInString\obj\Debug\SumOfValuesInString.pdb

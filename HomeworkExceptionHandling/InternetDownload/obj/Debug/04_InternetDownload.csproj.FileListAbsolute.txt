@@ -1,0 +1,5 @@
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkExceptionHandling\InternetDownload\bin\Debug\InternetDownload.exe.config
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkExceptionHandling\InternetDownload\bin\Debug\InternetDownload.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkExceptionHandling\InternetDownload\bin\Debug\InternetDownload.pdb
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkExceptionHandling\InternetDownload\obj\Debug\InternetDownload.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkExceptionHandling\InternetDownload\obj\Debug\InternetDownload.pdb

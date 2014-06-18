@@ -1,0 +1,6 @@
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkExceptionHandling\CalculateSquareRoot\bin\Debug\CalculateSquareRoot.exe.config
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkExceptionHandling\CalculateSquareRoot\bin\Debug\CalculateSquareRoot.exe
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkExceptionHandling\CalculateSquareRoot\bin\Debug\CalculateSquareRoot.pdb
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkExceptionHandling\CalculateSquareRoot\obj\Debug\01_CalculateSquareRoot.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkExceptionHandling\CalculateSquareRoot\obj\Debug\CalculateSquareRoot.exe
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkExceptionHandling\CalculateSquareRoot\obj\Debug\CalculateSquareRoot.pdb

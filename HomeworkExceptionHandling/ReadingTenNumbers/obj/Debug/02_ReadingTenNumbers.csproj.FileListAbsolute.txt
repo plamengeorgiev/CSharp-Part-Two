@@ -1,0 +1,6 @@
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkExceptionHandling\ReadingTenNumbers\obj\Debug\02_ReadingTenNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkExceptionHandling\ReadingTenNumbers\bin\Debug\ReadingTenNumbers.exe.config
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkExceptionHandling\ReadingTenNumbers\bin\Debug\ReadingTenNumbers.exe
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkExceptionHandling\ReadingTenNumbers\bin\Debug\ReadingTenNumbers.pdb
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkExceptionHandling\ReadingTenNumbers\obj\Debug\ReadingTenNumbers.exe
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkExceptionHandling\ReadingTenNumbers\obj\Debug\ReadingTenNumbers.pdb

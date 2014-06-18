@@ -1,0 +1,6 @@
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkNumeralSystems\ConvertDecimalToBinary\bin\Debug\ConvertDecimalToBinary.exe.config
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkNumeralSystems\ConvertDecimalToBinary\bin\Debug\ConvertDecimalToBinary.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkNumeralSystems\ConvertDecimalToBinary\bin\Debug\ConvertDecimalToBinary.pdb
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkNumeralSystems\ConvertDecimalToBinary\obj\Debug\ConvertDecimalToBinary.csprojResolveAssemblyReference.cache
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkNumeralSystems\ConvertDecimalToBinary\obj\Debug\ConvertDecimalToBinary.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkNumeralSystems\ConvertDecimalToBinary\obj\Debug\ConvertDecimalToBinary.pdb

@@ -1,0 +1,6 @@
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkNumeralSystems\ConvertBaseSToBaseD\bin\Debug\ConvertBaseSToBaseD.exe.config
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkNumeralSystems\ConvertBaseSToBaseD\bin\Debug\ConvertBaseSToBaseD.exe
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkNumeralSystems\ConvertBaseSToBaseD\bin\Debug\ConvertBaseSToBaseD.pdb
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkNumeralSystems\ConvertBaseSToBaseD\obj\Debug\ConvertBaseSToBaseD.exe
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkNumeralSystems\ConvertBaseSToBaseD\obj\Debug\ConvertBaseSToBaseD.pdb
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkNumeralSystems\ConvertBaseSToBaseD\obj\Debug\07_ConvertBaseSToBaseD.csprojResolveAssemblyReference.cache

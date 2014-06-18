@@ -1,0 +1,1 @@
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkNumeralSystems\ConvertDecimalToHexadecimal\bin\Debug\ConvertDecimalToHexadecimal.exe.config

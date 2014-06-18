@@ -1,0 +1,5 @@
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkNumeralSystems\ConvertDecimalToBinary\bin\Debug\ConvertDecimalToBinary.exe.config
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkNumeralSystems\ConvertDecimalToBinary\obj\Debug\ConvertDecimalToBinary.exe
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkNumeralSystems\ConvertDecimalToBinary\obj\Debug\ConvertDecimalToBinary.pdb
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkNumeralSystems\ConvertDecimalToBinary\bin\Debug\ConvertDecimalToBinary.exe
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkNumeralSystems\ConvertDecimalToBinary\bin\Debug\ConvertDecimalToBinary.pdb

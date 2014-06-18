@@ -1,0 +1,5 @@
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkNumeralSystems\ShortBinaryRepresentation\bin\Debug\ShortBinaryRepresentation.exe.config
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkNumeralSystems\ShortBinaryRepresentation\bin\Debug\ShortBinaryRepresentation.exe
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkNumeralSystems\ShortBinaryRepresentation\bin\Debug\ShortBinaryRepresentation.pdb
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkNumeralSystems\ShortBinaryRepresentation\obj\Debug\ShortBinaryRepresentation.exe
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkNumeralSystems\ShortBinaryRepresentation\obj\Debug\ShortBinaryRepresentation.pdb

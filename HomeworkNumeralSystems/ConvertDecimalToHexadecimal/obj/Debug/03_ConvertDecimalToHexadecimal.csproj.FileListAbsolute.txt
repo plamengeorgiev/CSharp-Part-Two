@@ -1,0 +1,5 @@
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkNumeralSystems\ConvertDecimalToHexadecimal\bin\Debug\ConvertDecimalToHexadecimal.exe.config
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkNumeralSystems\ConvertDecimalToHexadecimal\bin\Debug\ConvertDecimalToHexadecimal.exe
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkNumeralSystems\ConvertDecimalToHexadecimal\bin\Debug\ConvertDecimalToHexadecimal.pdb
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkNumeralSystems\ConvertDecimalToHexadecimal\obj\Debug\ConvertDecimalToHexadecimal.exe
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkNumeralSystems\ConvertDecimalToHexadecimal\obj\Debug\ConvertDecimalToHexadecimal.pdb

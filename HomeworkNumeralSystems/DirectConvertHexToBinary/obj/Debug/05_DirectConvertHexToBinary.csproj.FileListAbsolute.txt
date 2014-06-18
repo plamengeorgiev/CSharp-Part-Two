@@ -1,0 +1,5 @@
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkNumeralSystems\DirectConvertHexToBinary\bin\Debug\DirectConvertHexToBinary.exe.config
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkNumeralSystems\DirectConvertHexToBinary\obj\Debug\DirectConvertHexToBinary.exe
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkNumeralSystems\DirectConvertHexToBinary\obj\Debug\DirectConvertHexToBinary.pdb
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkNumeralSystems\DirectConvertHexToBinary\bin\Debug\DirectConvertHexToBinary.exe
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkNumeralSystems\DirectConvertHexToBinary\bin\Debug\DirectConvertHexToBinary.pdb

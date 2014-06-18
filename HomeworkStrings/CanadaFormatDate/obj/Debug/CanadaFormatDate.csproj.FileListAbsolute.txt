@@ -1,0 +1,1 @@
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\CanadaFormatDate\bin\Debug\CanadaFormatDate.exe.config

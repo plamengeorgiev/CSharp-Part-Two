@@ -1,0 +1,5 @@
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\ForbiddenWords\bin\Debug\ForbiddenWords.exe.config
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\ForbiddenWords\bin\Debug\ForbiddenWords.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\ForbiddenWords\bin\Debug\ForbiddenWords.pdb
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\ForbiddenWords\obj\Debug\ForbiddenWords.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\ForbiddenWords\obj\Debug\ForbiddenWords.pdb

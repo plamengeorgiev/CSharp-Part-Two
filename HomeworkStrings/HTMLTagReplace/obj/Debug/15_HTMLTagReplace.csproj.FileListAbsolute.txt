@@ -1,0 +1,5 @@
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\HTMLTagReplace\bin\Debug\HTMLTagReplace.exe.config
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\HTMLTagReplace\obj\Debug\HTMLTagReplace.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\HTMLTagReplace\obj\Debug\HTMLTagReplace.pdb
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\HTMLTagReplace\bin\Debug\HTMLTagReplace.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\HTMLTagReplace\bin\Debug\HTMLTagReplace.pdb

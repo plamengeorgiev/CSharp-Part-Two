@@ -1,0 +1,5 @@
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\StringOfTwentyCharacters\bin\Debug\StringOfTwentyCharacters.exe.config
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\StringOfTwentyCharacters\bin\Debug\StringOfTwentyCharacters.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\StringOfTwentyCharacters\bin\Debug\StringOfTwentyCharacters.pdb
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\StringOfTwentyCharacters\obj\Debug\StringOfTwentyCharacters.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\StringOfTwentyCharacters\obj\Debug\StringOfTwentyCharacters.pdb

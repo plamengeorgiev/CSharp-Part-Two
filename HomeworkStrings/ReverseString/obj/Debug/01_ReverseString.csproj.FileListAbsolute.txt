@@ -1,0 +1,6 @@
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\ReverseString\obj\Debug\01_ReverseString.csprojResolveAssemblyReference.cache
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\ReverseString\bin\Debug\ReverseString.exe.config
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\ReverseString\bin\Debug\ReverseString.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\ReverseString\bin\Debug\ReverseString.pdb
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\ReverseString\obj\Debug\ReverseString.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\ReverseString\obj\Debug\ReverseString.pdb

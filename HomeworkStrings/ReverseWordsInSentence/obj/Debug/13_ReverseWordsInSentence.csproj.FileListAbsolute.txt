@@ -1,0 +1,6 @@
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\ReverseWordsInSentence\bin\Debug\ReverseWordsInSentence.exe.config
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\ReverseWordsInSentence\bin\Debug\ReverseWordsInSentence.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\ReverseWordsInSentence\bin\Debug\ReverseWordsInSentence.pdb
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\ReverseWordsInSentence\obj\Debug\13_ReverseWordsInSentence.csprojResolveAssemblyReference.cache
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\ReverseWordsInSentence\obj\Debug\ReverseWordsInSentence.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\ReverseWordsInSentence\obj\Debug\ReverseWordsInSentence.pdb

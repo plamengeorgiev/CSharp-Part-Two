@@ -1,0 +1,5 @@
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\TimeAfterSixHours\bin\Debug\TimeAfterSixHours.exe.config
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\TimeAfterSixHours\bin\Debug\TimeAfterSixHours.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\TimeAfterSixHours\bin\Debug\TimeAfterSixHours.pdb
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\TimeAfterSixHours\obj\Debug\TimeAfterSixHours.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\TimeAfterSixHours\obj\Debug\TimeAfterSixHours.pdb

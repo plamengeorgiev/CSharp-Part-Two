@@ -1,0 +1,5 @@
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\EncodeAndDecode\bin\Debug\EncodeAndDecode.exe.config
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\EncodeAndDecode\bin\Debug\EncodeAndDecode.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\EncodeAndDecode\bin\Debug\EncodeAndDecode.pdb
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\EncodeAndDecode\obj\Debug\EncodeAndDecode.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\EncodeAndDecode\obj\Debug\EncodeAndDecode.pdb

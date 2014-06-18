@@ -1,0 +1,5 @@
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\PrintListAlphabetically\bin\Debug\PrintListAlphabetically.exe.config
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\PrintListAlphabetically\bin\Debug\PrintListAlphabetically.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\PrintListAlphabetically\bin\Debug\PrintListAlphabetically.pdb
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\PrintListAlphabetically\obj\Debug\PrintListAlphabetically.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\PrintListAlphabetically\obj\Debug\PrintListAlphabetically.pdb

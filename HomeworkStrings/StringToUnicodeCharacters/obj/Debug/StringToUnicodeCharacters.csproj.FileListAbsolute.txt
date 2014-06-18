@@ -1,0 +1,1 @@
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\StringToUnicodeCharacters\bin\Debug\StringToUnicodeCharacters.exe.config

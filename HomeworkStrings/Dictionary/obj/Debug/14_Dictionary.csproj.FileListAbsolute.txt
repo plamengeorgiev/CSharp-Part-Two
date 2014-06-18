@@ -1,0 +1,6 @@
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\Dictionary\bin\Debug\Dictionary.exe.config
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\Dictionary\bin\Debug\Dictionary.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\Dictionary\bin\Debug\Dictionary.pdb
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\Dictionary\obj\Debug\14_Dictionary.csprojResolveAssemblyReference.cache
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\Dictionary\obj\Debug\Dictionary.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\Dictionary\obj\Debug\Dictionary.pdb

@@ -1,0 +1,5 @@
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\ExtractEmailAddresses\bin\Debug\ExtractEmailAddresses.exe.config
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\ExtractEmailAddresses\bin\Debug\ExtractEmailAddresses.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\ExtractEmailAddresses\bin\Debug\ExtractEmailAddresses.pdb
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\ExtractEmailAddresses\obj\Debug\ExtractEmailAddresses.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\ExtractEmailAddresses\obj\Debug\ExtractEmailAddresses.pdb

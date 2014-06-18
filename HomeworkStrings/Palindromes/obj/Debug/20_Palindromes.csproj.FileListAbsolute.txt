@@ -1,0 +1,5 @@
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\Palindromes\bin\Debug\Palindromes.exe.config
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\Palindromes\bin\Debug\Palindromes.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\Palindromes\bin\Debug\Palindromes.pdb
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\Palindromes\obj\Debug\Palindromes.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\Palindromes\obj\Debug\Palindromes.pdb

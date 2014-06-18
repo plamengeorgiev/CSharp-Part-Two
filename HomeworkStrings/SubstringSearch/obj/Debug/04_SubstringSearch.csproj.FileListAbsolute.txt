@@ -1,0 +1,6 @@
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\SubstringSearch\bin\Debug\SubstringSearch.exe.config
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\SubstringSearch\bin\Debug\SubstringSearch.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\SubstringSearch\bin\Debug\SubstringSearch.pdb
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\SubstringSearch\obj\Debug\SubstringSearch.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\SubstringSearch\obj\Debug\SubstringSearch.pdb
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\SubstringSearch\obj\Debug\04_SubstringSearch.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\IdenticalLettersCheck\bin\Debug\IdenticalLettersCheck.exe.config
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\IdenticalLettersCheck\bin\Debug\IdenticalLettersCheck.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\IdenticalLettersCheck\bin\Debug\IdenticalLettersCheck.pdb
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\IdenticalLettersCheck\obj\Debug\IdenticalLettersCheck.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\IdenticalLettersCheck\obj\Debug\IdenticalLettersCheck.pdb

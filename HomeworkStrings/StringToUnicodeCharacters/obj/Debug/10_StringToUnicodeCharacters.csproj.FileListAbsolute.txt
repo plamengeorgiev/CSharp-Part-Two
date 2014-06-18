@@ -1,0 +1,5 @@
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\StringToUnicodeCharacters\bin\Debug\StringToUnicodeCharacters.exe.config
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\StringToUnicodeCharacters\bin\Debug\StringToUnicodeCharacters.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\StringToUnicodeCharacters\bin\Debug\StringToUnicodeCharacters.pdb
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\StringToUnicodeCharacters\obj\Debug\StringToUnicodeCharacters.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\StringToUnicodeCharacters\obj\Debug\StringToUnicodeCharacters.pdb

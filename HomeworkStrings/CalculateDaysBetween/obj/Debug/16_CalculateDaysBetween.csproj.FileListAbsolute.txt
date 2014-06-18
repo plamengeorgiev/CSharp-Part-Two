@@ -1,0 +1,5 @@
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\CalculateDaysBetween\bin\Debug\CalculateDaysBetween.exe.config
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\CalculateDaysBetween\bin\Debug\CalculateDaysBetween.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\CalculateDaysBetween\bin\Debug\CalculateDaysBetween.pdb
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\CalculateDaysBetween\obj\Debug\CalculateDaysBetween.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\CalculateDaysBetween\obj\Debug\CalculateDaysBetween.pdb

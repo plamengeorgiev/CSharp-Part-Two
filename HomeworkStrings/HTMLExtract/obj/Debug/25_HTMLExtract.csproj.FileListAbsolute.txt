@@ -1,0 +1,5 @@
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\HTMLExtract\bin\Debug\HTMLExtract.exe.config
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\HTMLExtract\bin\Debug\HTMLExtract.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\HTMLExtract\bin\Debug\HTMLExtract.pdb
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\HTMLExtract\obj\Debug\HTMLExtract.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\HTMLExtract\obj\Debug\HTMLExtract.pdb

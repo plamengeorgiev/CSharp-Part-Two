@@ -1,0 +1,6 @@
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\CheckBrackets\bin\Debug\CheckBrackets.exe.config
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\CheckBrackets\bin\Debug\CheckBrackets.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\CheckBrackets\bin\Debug\CheckBrackets.pdb
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\CheckBrackets\obj\Debug\CheckBrackets.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\CheckBrackets\obj\Debug\CheckBrackets.pdb
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\CheckBrackets\obj\Debug\03_CheckBrackets.csprojResolveAssemblyReference.cache

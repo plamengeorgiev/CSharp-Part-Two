@@ -1,0 +1,6 @@
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\WordRepetition\bin\Debug\WordRepetition.exe.config
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\WordRepetition\bin\Debug\WordRepetition.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\WordRepetition\bin\Debug\WordRepetition.pdb
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\WordRepetition\obj\Debug\WordRepetition.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\WordRepetition\obj\Debug\WordRepetition.pdb
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\WordRepetition\obj\Debug\22_WordRepetition.csprojResolveAssemblyReference.cache

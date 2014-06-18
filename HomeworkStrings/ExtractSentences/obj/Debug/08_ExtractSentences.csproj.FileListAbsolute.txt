@@ -1,0 +1,5 @@
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\ExtractSentences\bin\Debug\ExtractSentences.exe.config
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\ExtractSentences\bin\Debug\ExtractSentences.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\ExtractSentences\bin\Debug\ExtractSentences.pdb
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\ExtractSentences\obj\Debug\ExtractSentences.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\ExtractSentences\obj\Debug\ExtractSentences.pdb

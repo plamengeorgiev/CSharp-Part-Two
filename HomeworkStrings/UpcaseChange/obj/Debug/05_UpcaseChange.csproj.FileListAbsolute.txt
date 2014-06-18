@@ -1,0 +1,6 @@
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\UpcaseChange\bin\Debug\UpcaseChange.exe.config
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\UpcaseChange\bin\Debug\UpcaseChange.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\UpcaseChange\bin\Debug\UpcaseChange.pdb
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\UpcaseChange\obj\Debug\05_UpcaseChange.csprojResolveAssemblyReference.cache
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\UpcaseChange\obj\Debug\UpcaseChange.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkStrings\UpcaseChange\obj\Debug\UpcaseChange.pdb

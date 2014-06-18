@@ -1,0 +1,5 @@
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkMultidimantionalArrays\MaximalSum3x3\bin\Debug\MaximalSum3x3.exe.config
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkMultidimantionalArrays\MaximalSum3x3\obj\Debug\MaximalSum3x3.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkMultidimantionalArrays\MaximalSum3x3\obj\Debug\MaximalSum3x3.pdb
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMultidimantionalArrays\MaximalSum3x3\bin\Debug\MaximalSum3x3.exe
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMultidimantionalArrays\MaximalSum3x3\bin\Debug\MaximalSum3x3.pdb

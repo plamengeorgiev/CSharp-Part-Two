@@ -1,0 +1,5 @@
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMultidimantionalArrays\PrintMatrixA\bin\Debug\PrintMatrixA.exe.config
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMultidimantionalArrays\PrintMatrixA\bin\Debug\PrintMatrixA.exe
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMultidimantionalArrays\PrintMatrixA\bin\Debug\PrintMatrixA.pdb
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMultidimantionalArrays\PrintMatrixA\obj\Debug\PrintMatrixA.exe
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMultidimantionalArrays\PrintMatrixA\obj\Debug\PrintMatrixA.pdb

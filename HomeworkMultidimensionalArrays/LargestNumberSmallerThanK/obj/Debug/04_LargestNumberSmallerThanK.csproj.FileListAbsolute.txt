@@ -1,0 +1,6 @@
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMultidimantionalArrays\LargestNumberSmallerThanK\bin\Debug\LargestNumberSmallerThanK.exe.config
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMultidimantionalArrays\LargestNumberSmallerThanK\bin\Debug\LargestNumberSmallerThanK.exe
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMultidimantionalArrays\LargestNumberSmallerThanK\bin\Debug\LargestNumberSmallerThanK.pdb
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMultidimantionalArrays\LargestNumberSmallerThanK\obj\Debug\LargestNumberSmallerThanK.exe
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMultidimantionalArrays\LargestNumberSmallerThanK\obj\Debug\LargestNumberSmallerThanK.pdb
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMultidimantionalArrays\LargestNumberSmallerThanK\obj\Debug\04_LargestNumberSmallerThanK.csprojResolveAssemblyReference.cache

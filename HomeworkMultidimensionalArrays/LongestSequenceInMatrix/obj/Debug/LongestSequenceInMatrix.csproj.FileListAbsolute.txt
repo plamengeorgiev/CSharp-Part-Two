@@ -1,0 +1,1 @@
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkMultidimantionalArrays\LongestSequenceInMatrix\bin\Debug\LongestSequenceInMatrix.exe.config

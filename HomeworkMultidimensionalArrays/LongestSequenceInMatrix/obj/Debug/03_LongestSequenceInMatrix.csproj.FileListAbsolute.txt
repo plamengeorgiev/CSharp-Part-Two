@@ -1,0 +1,6 @@
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkMultidimantionalArrays\LongestSequenceInMatrix\bin\Debug\LongestSequenceInMatrix.exe.config
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkMultidimantionalArrays\LongestSequenceInMatrix\obj\Debug\03_LongestSequenceInMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkMultidimantionalArrays\LongestSequenceInMatrix\bin\Debug\LongestSequenceInMatrix.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkMultidimantionalArrays\LongestSequenceInMatrix\bin\Debug\LongestSequenceInMatrix.pdb
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkMultidimantionalArrays\LongestSequenceInMatrix\obj\Debug\LongestSequenceInMatrix.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkMultidimantionalArrays\LongestSequenceInMatrix\obj\Debug\LongestSequenceInMatrix.pdb

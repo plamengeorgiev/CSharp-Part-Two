@@ -1,0 +1,5 @@
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkMethods\LastDigitAsWord\bin\Debug\LastDigitAsWord.exe.config
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkMethods\LastDigitAsWord\bin\Debug\LastDigitAsWord.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkMethods\LastDigitAsWord\bin\Debug\LastDigitAsWord.pdb
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkMethods\LastDigitAsWord\obj\Debug\LastDigitAsWord.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkMethods\LastDigitAsWord\obj\Debug\LastDigitAsWord.pdb

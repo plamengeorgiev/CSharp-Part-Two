@@ -1,0 +1,6 @@
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkMethods\BiggerThanTheNeighbours\obj\Debug\05_BiggerThanTheNeighbours.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkMethods\BiggerThanTheNeighbours\bin\Debug\BiggerThanTheNeighbours.exe.config
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkMethods\BiggerThanTheNeighbours\bin\Debug\BiggerThanTheNeighbours.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkMethods\BiggerThanTheNeighbours\bin\Debug\BiggerThanTheNeighbours.pdb
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkMethods\BiggerThanTheNeighbours\obj\Debug\BiggerThanTheNeighbours.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkMethods\BiggerThanTheNeighbours\obj\Debug\BiggerThanTheNeighbours.pdb

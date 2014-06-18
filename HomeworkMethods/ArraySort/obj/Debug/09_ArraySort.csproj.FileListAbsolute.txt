@@ -1,0 +1,5 @@
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMethods\ArraySort\bin\Debug\ArraySort.exe.config
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMethods\ArraySort\obj\Debug\ArraySort.exe
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMethods\ArraySort\obj\Debug\ArraySort.pdb
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMethods\ArraySort\bin\Debug\ArraySort.exe
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMethods\ArraySort\bin\Debug\ArraySort.pdb

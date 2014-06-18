@@ -1,0 +1,6 @@
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMethods\DecimalNumberReversed\bin\Debug\DecimalNumberReversed.exe.config
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMethods\DecimalNumberReversed\bin\Debug\DecimalNumberReversed.exe
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMethods\DecimalNumberReversed\bin\Debug\DecimalNumberReversed.pdb
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMethods\DecimalNumberReversed\obj\Debug\07_DecimalNumberReversed.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMethods\DecimalNumberReversed\obj\Debug\DecimalNumberReversed.exe
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMethods\DecimalNumberReversed\obj\Debug\DecimalNumberReversed.pdb

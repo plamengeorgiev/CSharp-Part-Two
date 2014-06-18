@@ -1,0 +1,6 @@
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkMethods\PrintingName\bin\Debug\PrintingName.exe.config
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkMethods\PrintingName\bin\Debug\PrintingName.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkMethods\PrintingName\bin\Debug\PrintingName.pdb
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkMethods\PrintingName\obj\Debug\01_PrintingName.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkMethods\PrintingName\obj\Debug\PrintingName.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkMethods\PrintingName\obj\Debug\PrintingName.pdb

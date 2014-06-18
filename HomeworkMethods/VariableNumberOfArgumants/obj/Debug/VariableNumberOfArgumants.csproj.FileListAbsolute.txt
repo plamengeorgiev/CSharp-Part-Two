@@ -1,0 +1,6 @@
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMethods\VariableNumberOfArgumants\bin\Debug\VariableNumberOfArgumants.exe.config
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMethods\VariableNumberOfArgumants\bin\Debug\VariableNumberOfArgumants.exe
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMethods\VariableNumberOfArgumants\bin\Debug\VariableNumberOfArgumants.pdb
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMethods\VariableNumberOfArgumants\obj\Debug\VariableNumberOfArgumants.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMethods\VariableNumberOfArgumants\obj\Debug\VariableNumberOfArgumants.exe
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMethods\VariableNumberOfArgumants\obj\Debug\VariableNumberOfArgumants.pdb

@@ -1,0 +1,5 @@
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMethods\SubstractAndMultiplyPolynomials\bin\Debug\SubstractAndMultiplyPolynomials.exe.config
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMethods\SubstractAndMultiplyPolynomials\obj\Debug\SubstractAndMultiplyPolynomials.exe
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMethods\SubstractAndMultiplyPolynomials\obj\Debug\SubstractAndMultiplyPolynomials.pdb
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMethods\SubstractAndMultiplyPolynomials\bin\Debug\SubstractAndMultiplyPolynomials.exe
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMethods\SubstractAndMultiplyPolynomials\bin\Debug\SubstractAndMultiplyPolynomials.pdb

@@ -1,0 +1,6 @@
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMethods\AddingArraysOfDigits\bin\Debug\AddingArraysOfDigits.exe.config
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMethods\AddingArraysOfDigits\bin\Debug\AddingArraysOfDigits.exe
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMethods\AddingArraysOfDigits\bin\Debug\AddingArraysOfDigits.pdb
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMethods\AddingArraysOfDigits\obj\Debug\08_AddingArraysOfDigits.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMethods\AddingArraysOfDigits\obj\Debug\AddingArraysOfDigits.exe
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMethods\AddingArraysOfDigits\obj\Debug\AddingArraysOfDigits.pdb

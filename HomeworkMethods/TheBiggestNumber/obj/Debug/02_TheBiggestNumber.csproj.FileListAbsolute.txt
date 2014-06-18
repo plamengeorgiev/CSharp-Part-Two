@@ -1,0 +1,5 @@
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkMethods\TheBiggestNumber\bin\Debug\TheBiggestNumber.exe.config
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkMethods\TheBiggestNumber\bin\Debug\TheBiggestNumber.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkMethods\TheBiggestNumber\bin\Debug\TheBiggestNumber.pdb
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkMethods\TheBiggestNumber\obj\Debug\TheBiggestNumber.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkMethods\TheBiggestNumber\obj\Debug\TheBiggestNumber.pdb

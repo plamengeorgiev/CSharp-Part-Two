@@ -1,0 +1,6 @@
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMethods\TheThreeTasks\bin\Debug\TheThreeTasks.exe.config
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMethods\TheThreeTasks\bin\Debug\TheThreeTasks.exe
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMethods\TheThreeTasks\bin\Debug\TheThreeTasks.pdb
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMethods\TheThreeTasks\obj\Debug\TheThreeTasks.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMethods\TheThreeTasks\obj\Debug\TheThreeTasks.exe
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMethods\TheThreeTasks\obj\Debug\TheThreeTasks.pdb

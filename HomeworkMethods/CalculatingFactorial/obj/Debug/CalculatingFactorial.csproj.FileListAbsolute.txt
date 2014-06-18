@@ -1,0 +1,6 @@
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMethods\CalculatingFactorial\bin\Debug\CalculatingFactorial.exe.config
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMethods\CalculatingFactorial\bin\Debug\CalculatingFactorial.exe
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMethods\CalculatingFactorial\bin\Debug\CalculatingFactorial.pdb
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMethods\CalculatingFactorial\obj\Debug\CalculatingFactorial.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMethods\CalculatingFactorial\obj\Debug\CalculatingFactorial.exe
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkMethods\CalculatingFactorial\obj\Debug\CalculatingFactorial.pdb

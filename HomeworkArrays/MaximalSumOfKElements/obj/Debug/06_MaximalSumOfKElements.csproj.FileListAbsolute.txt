@@ -1,0 +1,12 @@
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\MaximalSumOfKElements\bin\Debug\MaximalSumOfKElements.exe.config
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\MaximalSumOfKElements\bin\Debug\MaximalSumOfKElements.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\MaximalSumOfKElements\bin\Debug\MaximalSumOfKElements.pdb
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\MaximalSumOfKElements\obj\Debug\MaximalSumOfKElements.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\MaximalSumOfKElements\obj\Debug\MaximalSumOfKElements.pdb
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\MaximalSumOfKElements\obj\Debug\06_MaximalSumOfKElements.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\Desktop\HomeworkArrays\MaximalSumOfKElements\bin\Debug\MaximalSumOfKElements.exe.config
+C:\Users\Plamen\Desktop\HomeworkArrays\MaximalSumOfKElements\obj\Debug\MaximalSumOfKElements.exe
+C:\Users\Plamen\Desktop\HomeworkArrays\MaximalSumOfKElements\obj\Debug\MaximalSumOfKElements.pdb
+C:\Users\Plamen\Desktop\HomeworkArrays\MaximalSumOfKElements\bin\Debug\MaximalSumOfKElements.exe
+C:\Users\Plamen\Desktop\HomeworkArrays\MaximalSumOfKElements\bin\Debug\MaximalSumOfKElements.pdb
+C:\Users\Plamen\Desktop\HomeworkArrays\MaximalSumOfKElements\obj\Debug\06_MaximalSumOfKElements.csprojResolveAssemblyReference.cache

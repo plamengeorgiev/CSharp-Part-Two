@@ -1,0 +1,5 @@
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\SelectionSort\bin\Debug\SelectionSort.exe.config
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\SelectionSort\bin\Debug\SelectionSort.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\SelectionSort\bin\Debug\SelectionSort.pdb
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\SelectionSort\obj\Debug\SelectionSort.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\SelectionSort\obj\Debug\SelectionSort.pdb

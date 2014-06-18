@@ -1,0 +1,12 @@
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\LetterIndex\bin\Debug\LetterIndex.exe.config
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\LetterIndex\bin\Debug\LetterIndex.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\LetterIndex\bin\Debug\LetterIndex.pdb
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\LetterIndex\obj\Debug\LetterIndex.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\LetterIndex\obj\Debug\LetterIndex.pdb
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\LetterIndex\obj\Debug\12_LetterIndex.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\Desktop\HomeworkArrays\LetterIndex\bin\Debug\LetterIndex.exe.config
+C:\Users\Plamen\Desktop\HomeworkArrays\LetterIndex\obj\Debug\LetterIndex.exe
+C:\Users\Plamen\Desktop\HomeworkArrays\LetterIndex\obj\Debug\LetterIndex.pdb
+C:\Users\Plamen\Desktop\HomeworkArrays\LetterIndex\bin\Debug\LetterIndex.exe
+C:\Users\Plamen\Desktop\HomeworkArrays\LetterIndex\bin\Debug\LetterIndex.pdb
+C:\Users\Plamen\Desktop\HomeworkArrays\LetterIndex\obj\Debug\12_LetterIndex.csprojResolveAssemblyReference.cache

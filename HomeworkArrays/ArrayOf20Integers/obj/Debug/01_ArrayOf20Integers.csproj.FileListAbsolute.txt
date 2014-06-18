@@ -1,0 +1,12 @@
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkArrays\ArrayOf20Integers\bin\Debug\ArrayOf20Integers.exe.config
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkArrays\ArrayOf20Integers\bin\Debug\ArrayOf20Integers.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkArrays\ArrayOf20Integers\bin\Debug\ArrayOf20Integers.pdb
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkArrays\ArrayOf20Integers\obj\Debug\01_ArrayOf20Integers.csprojResolveAssemblyReference.cache
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkArrays\ArrayOf20Integers\obj\Debug\ArrayOf20Integers.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkArrays\ArrayOf20Integers\obj\Debug\ArrayOf20Integers.pdb
+G:\HomeworkArrays\ArrayOf20Integers\bin\Debug\ArrayOf20Integers.exe.config
+G:\HomeworkArrays\ArrayOf20Integers\obj\Debug\ArrayOf20Integers.exe
+G:\HomeworkArrays\ArrayOf20Integers\obj\Debug\ArrayOf20Integers.pdb
+C:\Users\Plamen\Desktop\HomeworkArrays\ArrayOf20Integers\bin\Debug\ArrayOf20Integers.exe.config
+C:\Users\Plamen\Desktop\HomeworkArrays\ArrayOf20Integers\obj\Debug\ArrayOf20Integers.exe
+C:\Users\Plamen\Desktop\HomeworkArrays\ArrayOf20Integers\obj\Debug\ArrayOf20Integers.pdb

@@ -1,0 +1,1 @@
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\GeneratePermutations\bin\Debug\GeneratePermutations.exe.config

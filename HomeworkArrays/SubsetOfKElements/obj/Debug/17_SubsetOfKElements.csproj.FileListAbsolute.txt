@@ -1,0 +1,5 @@
+C:\Users\Plamen\Desktop\HomeworkArrays\SubsetOfKElements\bin\Debug\SubsetOfKElements.exe.config
+C:\Users\Plamen\Desktop\HomeworkArrays\SubsetOfKElements\bin\Debug\SubsetOfKElements.exe
+C:\Users\Plamen\Desktop\HomeworkArrays\SubsetOfKElements\bin\Debug\SubsetOfKElements.pdb
+C:\Users\Plamen\Desktop\HomeworkArrays\SubsetOfKElements\obj\Debug\SubsetOfKElements.exe
+C:\Users\Plamen\Desktop\HomeworkArrays\SubsetOfKElements\obj\Debug\SubsetOfKElements.pdb

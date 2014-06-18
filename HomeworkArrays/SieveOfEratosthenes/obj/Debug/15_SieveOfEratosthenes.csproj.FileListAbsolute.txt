@@ -1,0 +1,12 @@
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.exe.config
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.pdb
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\SieveOfEratosthenes\obj\Debug\15_SieveOfEratosthenes.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.pdb
+C:\Users\Plamen\Desktop\HomeworkArrays\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.exe.config
+C:\Users\Plamen\Desktop\HomeworkArrays\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.exe
+C:\Users\Plamen\Desktop\HomeworkArrays\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.pdb
+C:\Users\Plamen\Desktop\HomeworkArrays\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.exe
+C:\Users\Plamen\Desktop\HomeworkArrays\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.pdb
+C:\Users\Plamen\Desktop\HomeworkArrays\SieveOfEratosthenes\obj\Debug\15_SieveOfEratosthenes.csprojResolveAssemblyReference.cache

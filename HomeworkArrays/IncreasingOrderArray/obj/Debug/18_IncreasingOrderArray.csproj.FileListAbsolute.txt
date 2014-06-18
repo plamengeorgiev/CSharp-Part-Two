@@ -1,0 +1,5 @@
+C:\Users\Plamen\Desktop\HomeworkArrays\IncreasingOrderArray\bin\Debug\IncreasingOrderArray.exe.config
+C:\Users\Plamen\Desktop\HomeworkArrays\IncreasingOrderArray\bin\Debug\IncreasingOrderArray.exe
+C:\Users\Plamen\Desktop\HomeworkArrays\IncreasingOrderArray\bin\Debug\IncreasingOrderArray.pdb
+C:\Users\Plamen\Desktop\HomeworkArrays\IncreasingOrderArray\obj\Debug\IncreasingOrderArray.exe
+C:\Users\Plamen\Desktop\HomeworkArrays\IncreasingOrderArray\obj\Debug\IncreasingOrderArray.pdb

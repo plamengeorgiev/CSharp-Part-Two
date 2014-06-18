@@ -1,0 +1,12 @@
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\GenerateVariations\bin\Debug\GenerateVariations.exe.config
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\GenerateVariations\bin\Debug\GenerateVariations.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\GenerateVariations\bin\Debug\GenerateVariations.pdb
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\GenerateVariations\obj\Debug\20_GenerateVariations.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\GenerateVariations\obj\Debug\GenerateVariations.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\GenerateVariations\obj\Debug\GenerateVariations.pdb
+C:\Users\Plamen\Desktop\HomeworkArrays\GenerateVariations\bin\Debug\GenerateVariations.exe.config
+C:\Users\Plamen\Desktop\HomeworkArrays\GenerateVariations\obj\Debug\GenerateVariations.exe
+C:\Users\Plamen\Desktop\HomeworkArrays\GenerateVariations\obj\Debug\GenerateVariations.pdb
+C:\Users\Plamen\Desktop\HomeworkArrays\GenerateVariations\bin\Debug\GenerateVariations.exe
+C:\Users\Plamen\Desktop\HomeworkArrays\GenerateVariations\bin\Debug\GenerateVariations.pdb
+C:\Users\Plamen\Desktop\HomeworkArrays\GenerateVariations\obj\Debug\20_GenerateVariations.csprojResolveAssemblyReference.cache

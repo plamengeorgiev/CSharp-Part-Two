@@ -1,0 +1,10 @@
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\GeneratePermutations\bin\Debug\GeneratePermutations.exe.config
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\GeneratePermutations\bin\Debug\GeneratePermutations.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\GeneratePermutations\bin\Debug\GeneratePermutations.pdb
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\GeneratePermutations\obj\Debug\GeneratePermutations.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\GeneratePermutations\obj\Debug\GeneratePermutations.pdb
+C:\Users\Plamen\Desktop\HomeworkArrays\GeneratePermutations\bin\Debug\GeneratePermutations.exe.config
+C:\Users\Plamen\Desktop\HomeworkArrays\GeneratePermutations\obj\Debug\GeneratePermutations.exe
+C:\Users\Plamen\Desktop\HomeworkArrays\GeneratePermutations\obj\Debug\GeneratePermutations.pdb
+C:\Users\Plamen\Desktop\HomeworkArrays\GeneratePermutations\bin\Debug\GeneratePermutations.exe
+C:\Users\Plamen\Desktop\HomeworkArrays\GeneratePermutations\bin\Debug\GeneratePermutations.pdb

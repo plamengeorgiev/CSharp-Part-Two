@@ -1,0 +1,10 @@
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\MaximalSequenceOfEqual\bin\Debug\MaximalSequenceOfEqual.exe.config
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\MaximalSequenceOfEqual\bin\Debug\MaximalSequenceOfEqual.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\MaximalSequenceOfEqual\bin\Debug\MaximalSequenceOfEqual.pdb
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\MaximalSequenceOfEqual\obj\Debug\MaximalSequenceOfEqual.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\MaximalSequenceOfEqual\obj\Debug\MaximalSequenceOfEqual.pdb
+C:\Users\Plamen\Desktop\HomeworkArrays\MaximalSequenceOfEqual\bin\Debug\MaximalSequenceOfEqual.exe.config
+C:\Users\Plamen\Desktop\HomeworkArrays\MaximalSequenceOfEqual\obj\Debug\MaximalSequenceOfEqual.exe
+C:\Users\Plamen\Desktop\HomeworkArrays\MaximalSequenceOfEqual\obj\Debug\MaximalSequenceOfEqual.pdb
+C:\Users\Plamen\Desktop\HomeworkArrays\MaximalSequenceOfEqual\bin\Debug\MaximalSequenceOfEqual.exe
+C:\Users\Plamen\Desktop\HomeworkArrays\MaximalSequenceOfEqual\bin\Debug\MaximalSequenceOfEqual.pdb

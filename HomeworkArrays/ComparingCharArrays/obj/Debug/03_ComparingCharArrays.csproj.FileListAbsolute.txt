@@ -1,0 +1,10 @@
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\ComparingCharArrays\bin\Debug\ComparingCharArrays.exe.config
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\ComparingCharArrays\bin\Debug\ComparingCharArrays.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\ComparingCharArrays\bin\Debug\ComparingCharArrays.pdb
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\ComparingCharArrays\obj\Debug\ComparingCharArrays.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\ComparingCharArrays\obj\Debug\ComparingCharArrays.pdb
+C:\Users\Plamen\Desktop\HomeworkArrays\ComparingCharArrays\bin\Debug\ComparingCharArrays.exe.config
+C:\Users\Plamen\Desktop\HomeworkArrays\ComparingCharArrays\obj\Debug\ComparingCharArrays.exe
+C:\Users\Plamen\Desktop\HomeworkArrays\ComparingCharArrays\obj\Debug\ComparingCharArrays.pdb
+C:\Users\Plamen\Desktop\HomeworkArrays\ComparingCharArrays\bin\Debug\ComparingCharArrays.exe
+C:\Users\Plamen\Desktop\HomeworkArrays\ComparingCharArrays\bin\Debug\ComparingCharArrays.pdb

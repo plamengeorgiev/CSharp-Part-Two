@@ -1,0 +1,12 @@
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\GenerateCombinations\bin\Debug\GenerateCombinations.exe.config
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\GenerateCombinations\obj\Debug\21_GenerateCombinations.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\GenerateCombinations\bin\Debug\GenerateCombinations.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\GenerateCombinations\bin\Debug\GenerateCombinations.pdb
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\GenerateCombinations\obj\Debug\GenerateCombinations.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\GenerateCombinations\obj\Debug\GenerateCombinations.pdb
+C:\Users\Plamen\Desktop\HomeworkArrays\GenerateCombinations\bin\Debug\GenerateCombinations.exe.config
+C:\Users\Plamen\Desktop\HomeworkArrays\GenerateCombinations\obj\Debug\GenerateCombinations.exe
+C:\Users\Plamen\Desktop\HomeworkArrays\GenerateCombinations\obj\Debug\GenerateCombinations.pdb
+C:\Users\Plamen\Desktop\HomeworkArrays\GenerateCombinations\bin\Debug\GenerateCombinations.exe
+C:\Users\Plamen\Desktop\HomeworkArrays\GenerateCombinations\bin\Debug\GenerateCombinations.pdb
+C:\Users\Plamen\Desktop\HomeworkArrays\GenerateCombinations\obj\Debug\21_GenerateCombinations.csprojResolveAssemblyReference.cache

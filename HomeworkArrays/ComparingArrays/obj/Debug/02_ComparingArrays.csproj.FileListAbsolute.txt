@@ -1,0 +1,12 @@
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\ComparingArrays\bin\Debug\ComparingArrays.exe.config
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\ComparingArrays\bin\Debug\ComparingArrays.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\ComparingArrays\bin\Debug\ComparingArrays.pdb
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\ComparingArrays\obj\Debug\02_ComparingArrays.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\ComparingArrays\obj\Debug\ComparingArrays.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\ComparingArrays\obj\Debug\ComparingArrays.pdb
+C:\Users\Plamen\Desktop\HomeworkArrays\ComparingArrays\bin\Debug\ComparingArrays.exe.config
+C:\Users\Plamen\Desktop\HomeworkArrays\ComparingArrays\obj\Debug\ComparingArrays.exe
+C:\Users\Plamen\Desktop\HomeworkArrays\ComparingArrays\obj\Debug\ComparingArrays.pdb
+C:\Users\Plamen\Desktop\HomeworkArrays\ComparingArrays\bin\Debug\ComparingArrays.exe
+C:\Users\Plamen\Desktop\HomeworkArrays\ComparingArrays\bin\Debug\ComparingArrays.pdb
+C:\Users\Plamen\Desktop\HomeworkArrays\ComparingArrays\obj\Debug\02_ComparingArrays.csprojResolveAssemblyReference.cache

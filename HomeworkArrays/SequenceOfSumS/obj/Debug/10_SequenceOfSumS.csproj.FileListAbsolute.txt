@@ -1,0 +1,12 @@
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\SequenceOfSumS\bin\Debug\SequenceOfSumS.exe.config
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkArrays\SequenceOfSumS\bin\Debug\SequenceOfSumS.exe
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkArrays\SequenceOfSumS\bin\Debug\SequenceOfSumS.pdb
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkArrays\SequenceOfSumS\obj\Debug\10_SequenceOfSumS.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkArrays\SequenceOfSumS\obj\Debug\SequenceOfSumS.exe
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkArrays\SequenceOfSumS\obj\Debug\SequenceOfSumS.pdb
+C:\Users\Plamen\Desktop\HomeworkArrays\SequenceOfSumS\bin\Debug\SequenceOfSumS.exe.config
+C:\Users\Plamen\Desktop\HomeworkArrays\SequenceOfSumS\obj\Debug\SequenceOfSumS.exe
+C:\Users\Plamen\Desktop\HomeworkArrays\SequenceOfSumS\obj\Debug\SequenceOfSumS.pdb
+C:\Users\Plamen\Desktop\HomeworkArrays\SequenceOfSumS\bin\Debug\SequenceOfSumS.exe
+C:\Users\Plamen\Desktop\HomeworkArrays\SequenceOfSumS\bin\Debug\SequenceOfSumS.pdb
+C:\Users\Plamen\Desktop\HomeworkArrays\SequenceOfSumS\obj\Debug\10_SequenceOfSumS.csprojResolveAssemblyReference.cache

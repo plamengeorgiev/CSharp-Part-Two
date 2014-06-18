@@ -1,0 +1,12 @@
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.exe.config
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\MaximalIncreasingSequence\obj\Debug\05_MaximalIncreasingSequence.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.pdb
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\MaximalIncreasingSequence\obj\Debug\MaximalIncreasingSequence.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\MaximalIncreasingSequence\obj\Debug\MaximalIncreasingSequence.pdb
+C:\Users\Plamen\Desktop\HomeworkArrays\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.exe.config
+C:\Users\Plamen\Desktop\HomeworkArrays\MaximalIncreasingSequence\obj\Debug\MaximalIncreasingSequence.exe
+C:\Users\Plamen\Desktop\HomeworkArrays\MaximalIncreasingSequence\obj\Debug\MaximalIncreasingSequence.pdb
+C:\Users\Plamen\Desktop\HomeworkArrays\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.exe
+C:\Users\Plamen\Desktop\HomeworkArrays\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.pdb
+C:\Users\Plamen\Desktop\HomeworkArrays\MaximalIncreasingSequence\obj\Debug\05_MaximalIncreasingSequence.csprojResolveAssemblyReference.cache

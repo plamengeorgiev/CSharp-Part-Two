@@ -1,0 +1,12 @@
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\MergeSort\obj\Debug\13_MergeSort.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\MergeSort\bin\Debug\MergeSort.exe.config
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\MergeSort\bin\Debug\MergeSort.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\MergeSort\bin\Debug\MergeSort.pdb
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\MergeSort\obj\Debug\MergeSort.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\MergeSort\obj\Debug\MergeSort.pdb
+C:\Users\Plamen\Desktop\HomeworkArrays\MergeSort\bin\Debug\MergeSort.exe.config
+C:\Users\Plamen\Desktop\HomeworkArrays\MergeSort\obj\Debug\MergeSort.exe
+C:\Users\Plamen\Desktop\HomeworkArrays\MergeSort\obj\Debug\MergeSort.pdb
+C:\Users\Plamen\Desktop\HomeworkArrays\MergeSort\bin\Debug\MergeSort.exe
+C:\Users\Plamen\Desktop\HomeworkArrays\MergeSort\bin\Debug\MergeSort.pdb
+C:\Users\Plamen\Desktop\HomeworkArrays\MergeSort\obj\Debug\13_MergeSort.csprojResolveAssemblyReference.cache

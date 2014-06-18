@@ -1,0 +1,12 @@
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\QuickSort\bin\Debug\QuickSort.exe.config
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\QuickSort\bin\Debug\QuickSort.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\QuickSort\bin\Debug\QuickSort.pdb
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\QuickSort\obj\Debug\14_QuickSort.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\QuickSort\obj\Debug\QuickSort.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkArrays\QuickSort\obj\Debug\QuickSort.pdb
+C:\Users\Plamen\Desktop\HomeworkArrays\QuickSort\bin\Debug\QuickSort.exe.config
+C:\Users\Plamen\Desktop\HomeworkArrays\QuickSort\obj\Debug\QuickSort.exe
+C:\Users\Plamen\Desktop\HomeworkArrays\QuickSort\obj\Debug\QuickSort.pdb
+C:\Users\Plamen\Desktop\HomeworkArrays\QuickSort\bin\Debug\QuickSort.exe
+C:\Users\Plamen\Desktop\HomeworkArrays\QuickSort\bin\Debug\QuickSort.pdb
+C:\Users\Plamen\Desktop\HomeworkArrays\QuickSort\obj\Debug\14_QuickSort.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Plamen\Desktop\HomeworkArrays\SubsetSumS\bin\Debug\SubsetSumS.exe.config
+C:\Users\Plamen\Desktop\HomeworkArrays\SubsetSumS\bin\Debug\SubsetSumS.exe
+C:\Users\Plamen\Desktop\HomeworkArrays\SubsetSumS\bin\Debug\SubsetSumS.pdb
+C:\Users\Plamen\Desktop\HomeworkArrays\SubsetSumS\obj\Debug\SubsetSumS.exe
+C:\Users\Plamen\Desktop\HomeworkArrays\SubsetSumS\obj\Debug\SubsetSumS.pdb
